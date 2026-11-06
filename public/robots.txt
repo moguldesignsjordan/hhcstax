@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /training-center
+Sitemap: https://hhcstax.com/sitemap.xml
